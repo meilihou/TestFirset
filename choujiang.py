@@ -3,7 +3,7 @@
 from tkinter import *
 import random
 
-
+#废话废话是
 class App:
     def __init__(self,master):
         # 创建矩形框
